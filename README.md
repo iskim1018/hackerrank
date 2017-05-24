@@ -9,8 +9,12 @@
 algorithms/implementation/bigger_is_greater.js
 ```
 
-### [strings](https://www.hackerrank.com/domains/algorithms/strings)
-* algorithms/strings/richie-rich.js
+### Strings
+* [Richie Rich](https://www.hackerrank.com/challenges/richie-rich)
+* 최소한의 수정으로 앞뒤가 동일한 숫자 조합만들기(수정횟수가 동일하면 가장큰수)
+```
+algorithms/strings/richie-rich.js
+```
 
 ## Data Structure
 
