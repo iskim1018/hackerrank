@@ -50,6 +50,11 @@ algorithms/sorting/quick2.js
 algorithms/strings/richie-rich.js
 ```
 
+* [Sherlock and Anagram](https://www.hackerrank.com/challenges/sherlock-and-anagrams)
+```
+algorithms/strings/sherlock_and_anagrams.js
+```
+
 ## Data Structure
 
 ### Arrays
